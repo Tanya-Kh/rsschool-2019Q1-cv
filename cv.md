@@ -10,18 +10,18 @@ Software: Visual Studio .NET<br>
 Other Skills: Entity Framework, Web Services<br>
 Languages: English (fluent), Russian (native), Spanish (beginner)<br>
 Northeast Insurance Inc., Philadelphia, PA      
-Work Experience<br>
+***Work Experience***<br>
 Project: application for the insurance agents that allowed to automate the process of sending emails to customers.<br>
-Education <br>
+***Education*** <br>
 Bachelor's Degree in Economics & Marketing	 	 	 	 	 	        
-Belorussian State Economic University 
-Department of Marketing and Economics (2007 — 2012)
-Courses:
-Lynda.com
-Object-Oriented Programming with C#
-Learning the JavaScript Language
-Udemy.com
-Entity Framework in Depth: The Complete Guide
-C# Advanced Topics: Prepare for Technical Interviews
-English:
+*Belorussian State Economic University* 
+Department of Marketing and Economics (2007 — 2012)<br>
+*Courses:*<br>
+Lynda.com:<br>
+*Object-Oriented Programming with C#<br>
+*Learning the JavaScript Language
+Udemy.com:<br>
+*Entity Framework in Depth: The Complete Guide<br>
+*C# Advanced Topics: Prepare for Technical Interviews<br>
+***English***<br>
 fluent, currently live in the USA
