@@ -1,4 +1,4 @@
-#**Tanya Khreshchykava**<br><br>
+**Tanya Khreshchykava**<br><br>
 email: Tanya.Khreshchykava@gmail.com   <br>    phone: +1(267)333-23-88<br>
 ***Summary***<br>
 1+ year of experience in .NET development both from scratch and diving into an existing codebase;<br>
@@ -15,7 +15,7 @@ Project: application for the insurance agents that allowed to automate the proce
 Education <br>
 Bachelor's Degree in Economics & Marketing	 	 	 	 	 	        
 Belorussian State Economic University 
-Department of Marketing and Economics (2007 — 2012)
+Department of Marketing and Economics (2007 â€” 2012)
 Courses:
 Lynda.com
 Object-Oriented Programming with C#
